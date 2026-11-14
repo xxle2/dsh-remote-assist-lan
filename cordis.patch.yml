@@ -1,0 +1,5 @@
+# dsh-remote-relay bundle patch
+# 插件 id 与包名一致，装入 profile 后由 DSH 按其 package.json 的 dsh.bundle 自动挂载。
+- insert:
+    - id: dsh-remote-relay
+      name: dsh-remote-relay
